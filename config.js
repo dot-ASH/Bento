@@ -52,7 +52,7 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
+			id: '5',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
@@ -76,7 +76,7 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
+			id: '1',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
