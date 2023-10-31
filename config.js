@@ -139,7 +139,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Supabse',
+					name: 'Supabase',
 					link: 'https://supabase.com/',
 				},
 				{
