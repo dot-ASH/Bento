@@ -116,9 +116,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
+			name: 'Supabase',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'https://supabase.com/',
 		},
 		{
 			id: '6',
@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Hashnode',
-					link: 'https://hashnode.com/',
+					name: 'Supabse',
+					link: 'https://supabase.com/',
 				},
 				{
 					name: 'Figma',
@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://www.twitch.tv/',
 				},
 				{
-					name: 'Khan Academy',
-					link: 'https://www.khanacademy.org/',
+					name: 'Pinterest',
+					link: 'https://www.pinterest.com/',
 				},
 			],
 		},
